@@ -2,4 +2,4 @@
 
 run `npm install`
 
-to run all the tests `jest`
+to run all the tests, run `jest` in the terminal
